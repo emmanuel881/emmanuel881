@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **machine_learning**
+- 💬 Ask me about **web Development**
 
 - 📫 How to reach me **emmanuelsaura007@gmail.com**
 
-- ⚡ Fun fact **I love music**
+- ⚡ Fun fact **Jorney of a thousand miles begins with one step**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
