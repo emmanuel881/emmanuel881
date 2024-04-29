@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **web Development**
 
-- 📫 How to reach me **emmanuelsaura007@gmail.com**
+- 📫 How to reach me **emmanuelsaura008@gmail.com**
 
 - ⚡ Fun fact **Jorney of a thousand miles begins with one step**
 
